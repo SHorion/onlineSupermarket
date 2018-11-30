@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="690e01ac-0dc9-49e0-be83-d657d81e2886" name="aliyun" url="http://60.205.221.7">
+        <fileTransfer host="60.205.221.7" port="22" rootFolder="/var/www/GPAXF" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
